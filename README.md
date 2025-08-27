@@ -1,4 +1,5 @@
-## Hi there 👋
+## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&vCenter=true&width=800&color=04e0bb&lines=Hi+there+👋+This+is+Ningaraj;Self+taught+Front+and+Backend+Developer+!!)
+
 
 # 💫 About Me:
 🔭 I’m currently working as Associate Software Engineer<br>👯 I’m looking to collaborate on Full Stack Projects<br>📫 How to reach me mailmeasningarajl035@gmail.com
