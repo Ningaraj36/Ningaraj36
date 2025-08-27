@@ -1,4 +1,4 @@
-## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&vCenter=true&width=800&color=04e0bb&lines=Hi+there+👋+This+is+Ningaraj;Self+taught+Front+and+Backend+Developer+!!)
+## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&vCenter=true&width=800&color=04e0bb&lines=Hi+there+👋+This+is+Ningaraj;Self+taught+Frontend+and+Backend+Developer+!!)
 
 
 # 💫 About Me:
